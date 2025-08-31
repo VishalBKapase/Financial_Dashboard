@@ -103,3 +103,6 @@ The Financial Dashboard enabled the finance team to move from static Excel repor
 ✅ Improved decision-making speed with interactive filters, drilldowns, and bookmarks.
 
 This dashboard empowers stakeholders to track financial performance efficiently, analyze trends, and make data-driven financial decisions.
+
+Screenshots: 
+![Dashboard Preview] (https://github.com/VishalBKapase/Financial_Dashboard/blob/main/Financial_Dashboard_Screnshot2.jpg).
